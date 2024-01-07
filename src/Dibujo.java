@@ -7,6 +7,7 @@ byte p;
         x="      * *";
    k="     *";
    m="";
+   
    l="    *";
    n="  *";
    d="       *";
@@ -21,14 +22,14 @@ byte p;
    s="    ~ ";
    z="     ~ ";
    System.out.println(v);
-    System.out.println(x);
+    System.out.print(x);
 for(p=0;p<=1;p++){
     System.out.print(k);
     }
 for(p=0;p<=0;p++){
 System.out.println(m);
 }
-for(p=0;p<=2;p++){
+/*for(p=0;p<=2;p++){
 System.out.print(l);      
 }    
 for(p=0;p<=0;p++){
@@ -61,7 +62,7 @@ for(p=0;p<=2;p++){
 for(p=0;p<=0;p++){
 System.out.println(m);
 }
-/*olas*/
+/*olas
 for(p=0;p<=8;p++){
     System.out.print(h);
     }
@@ -88,7 +89,7 @@ System.out.println(m);
 }
 for(p=0;p<=4;p++){
     System.out.print(z);
-    }
+    }*/
 }
     
 }      
