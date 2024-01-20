@@ -9,7 +9,7 @@ import Unidad2.Dibujo;
 import Unidad2.Selectiva_Switch;
 import Unidad2.Arreglos;
 import Unidad2.Materias;
-import Unidad2.Repeticion;
+import _U3_.Decrementar;
 import Unidad2.Factorial;
 import Unidad2.Promedios;
 public class Menu {
@@ -28,9 +28,6 @@ public class Menu {
        break;
        case 4:Promedios obj12= new Promedios ();
        obj12.promedia();
-           
-           
-           
        break;
        case 5:Binario obj4= new Binario ();
        obj4.convertidor ();
@@ -47,8 +44,8 @@ public class Menu {
        case 9:Selectiva_Switch obj7= new Selectiva_Switch();
        obj7.compras();
        break;
-       case 10:Repeticion obj10=new Repeticion ();
-       obj10.multi();
+       case 10:Decrementar obj10=new Decrementar ();
+       obj10.dec();
        break;
        case 11:Arreglos obj8= new Arreglos ();
        obj8.materias();
