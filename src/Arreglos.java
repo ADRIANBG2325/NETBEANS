@@ -1,4 +1,5 @@
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane
+import java.*;
 public class Arreglos {
     public static void main (String []args){
         byte calculo [] = new byte [5];
