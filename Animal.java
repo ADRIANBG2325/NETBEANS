@@ -3,7 +3,7 @@ public class Animal {
     private int edad;
     private String especie;
     private boolean vacunado;
-///////
+/Codigo para vacunacion de anamales
     // Constructor sin argumentos
     public Animal() {}
 
